@@ -2,8 +2,10 @@
 Using BM3D to denoise,the code I'm modified is from https://github.com/MarkPrecursor/BM3D_Denosing.git
 If I don't intend to infringe on the rights of the author for the code I modified, please let me say I'm sorry, I will delete as soon as possible.
 
+
 Platform:
 	my platform is win7+python3.5
+
 
 To run this code:
   	step1:Because of this the code of python.You should install python and configuration environment variable.
