@@ -1,12 +1,12 @@
-# BM3D-Denoise
+## BM3D-Denoise
 Using BM3D to denoise.
 
 
-Platform:
+* Platform:
 
 	my platform is win7+python3.5
 
-To run this code:
+* To run this code:
 
   	step1: Because of this the code of python. You should install python and configuration environment variable.
   	
