@@ -2,7 +2,7 @@
 """
 *BM3D算法简单实现,主要程序部分
 *创建于2016.9.13
-*作者：lmp31
+*作者：Huang Liu
 """
 import cv2
 import PSNR
